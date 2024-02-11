@@ -31,7 +31,7 @@ This is a simple graphical user interface (GUI) application built in Python usin
 
 ## Contributions
 
-###Ishaan - Generated the UI for CAPTCHA crandomizer. YOu can change fonts and background in a systematic manner. Code was generated using github repositories and chatgpt 3.5
-
+## Ishaan - Generated the UI for CAPTCHA crandomizer. You can change fonts and background in a systematic manner. Code was generated using github repositories and chatgpt 3.5
+## Georgia - confirmed that the output is generated in the correct folder 
 ## License
 This project is licensed under the MIT License.
