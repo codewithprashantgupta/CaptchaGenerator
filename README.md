@@ -29,8 +29,9 @@ This is a simple graphical user interface (GUI) application built in Python usin
 4. The generated captcha will be displayed in the GUI window.
 5. The image will be saved in the "Outputs" folder in the same directory.
 
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
+## Contributions
+
+###Ishaan - Generated the UI for CAPTCHA crandomizer. YOu can change fonts and background in a systematic manner. Code was generated using github repositories and chatgpt 3.5
 
 ## License
 This project is licensed under the MIT License.
