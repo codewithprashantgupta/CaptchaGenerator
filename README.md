@@ -31,9 +31,10 @@ This is a simple graphical user interface (GUI) application built in Python usin
 
 ## Contributions
 
-## Ishaan - Generated the UI for CAPTCHA randomizer. Code was generated using github repositories and chatgpt 3.5
-## Georgia - confirmed that the output is generated in the correct folder 
-## Lloyd - 
-## Prashant - 
+**Georgia Croci** - Worked on ***generate_random_text*** method which generates a random text string with a length between 4 and 7 characters <br>
+**Ishaan Chaudhari** - Worked on ***generate_random_color*** function which generates a random hexadecimal color code. <br>
+**Lloyd Dsouza** - Applied distortion by rotating it with a random rotation angle.<br>
+**Prashant Gupta** - Created ***generate_captcha*** method to generate base captcha file. <br>
+
 ## License
 This project is licensed under the MIT License.
